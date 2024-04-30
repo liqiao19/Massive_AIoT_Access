@@ -11,7 +11,10 @@ This project aims to investigate and propose efficient multiple access mechanism
     </figure>
 </div>
 
-
+<div align="center">
+<img src="/image.png" alt="The schematic diagram of the proposed massive digital AirComp scheme.">
+</div>
+<div align="center">The schematic diagram of the proposed massive digital AirComp scheme.</div>
 
 ## [TCOM'23] Integrated Sensing and Communication
 
