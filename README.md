@@ -98,7 +98,7 @@ If you use this project, please cite the relevant original publications for the 
 }
 ```
 
-#### ISAC GFRA
+#### Near-Feild  ISAC
 ```
 @article{qiao2023sensing,
   title={Sensing User’s Activity, Channel, and Location with Near-Field Extra-Large-Scale MIMO},
