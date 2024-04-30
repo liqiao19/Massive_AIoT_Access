@@ -5,9 +5,8 @@ This project aims to investigate and propose efficient multiple access mechanism
 ## [ISIT'23] Unsourced Random Access for AirComp
 
 <div align="center">
-  <img src="/Figures/MDAirComp_scheme.gif" width="500" height="auto">
+  <img src="/Figures/MDAirComp_scheme.gif" height="500" width="auto">
 </div>
-![image](/Figures/MDAirComp_Results.gif)
 
 ## [Tcom'23] Integrated Sensing and Communication
 
