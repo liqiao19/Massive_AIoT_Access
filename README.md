@@ -3,11 +3,12 @@
 This project aims to investigate and propose efficient multiple access mechanisms to optimize communication efficiency among massive devices in future wireless networks. The ultimate goal is to contribute to the advancement of next-generation wireless networks, making them more streamlined and intelligent.
 
 <div align="center">
-<img src="/Figures/AIoT2.jpg" height="256" width="auto" alt="The schematic diagram of the proposed massive digital AirComp scheme.">
+<img src="/Figures/AIoT2.jpg" height="256" width="auto" alt="AIoT scenario https://theinternetofthings.report/articles/aiot-the-technology-and-its-limitless-possibilities">
 </div>
-<div align="center">The schematic diagram of the proposed massive digital AirComp scheme.</div>
 
 ## [ISIT'23] Unsourced Random Access for AirComp
+
+This paper proposes a communication-efficient digital over-the-air computation scheme, thereby enhancing compatibility with both present and future wireless networks.
 
 <div align="center">
 <img src="/Figures/MDAirComp_scheme.gif" height="256" width="auto" alt="The schematic diagram of the proposed massive digital AirComp scheme.">
@@ -15,6 +16,8 @@ This project aims to investigate and propose efficient multiple access mechanism
 <div align="center">The schematic diagram of the proposed massive digital AirComp scheme.</div>
 
 ## [TCOM'23] Integrated Sensing and Communication
+
+This paper proposes a grant-free massive access scheme based on the millimeter wave (mmWave) extra-large-scale multiple-input multiple-output (XL-MIMO), to support massive Internet-of-Things (IoT) devices with low latency, high data rate, and high localization accuracy in the next-generation networks.
 
 <div align="center">
   <img src="/Figures/ISAC.gif" height="300" width="auto" alt="Typical massive IoT access in smart factory scenarios">
@@ -57,6 +60,25 @@ This project aims to investigate and propose efficient multiple access mechanism
 ## Citations
 
 If you use this project, please cite the relevant original publications for the models and datasets, and cite this project as:
+
+#### Book and Survey
+```
+@article{gao2023compressive,
+  title={Compressive sensing-based grant-free massive access for 6G massive communication},
+  author={Gao, Zhen and Ke, Malong and Mei, Yikun and Qiao, Li and Chen, Sheng and Ng, Derrick Wing Kwan and Poor, H Vincent},
+  journal={IEEE Internet of Things Journal},
+  year={2023},
+  publisher={IEEE}
+}
+@book{gao2022massive,
+  author = {Gao, Z. and Ke, M. and Qiao, L. and Mei, Y.},
+  title = {Massive IoT Access for 6G},
+  year = {2022},
+  publisher = {Springer},
+  address = {Singapore}
+}
+
+```
 
 #### Massive Digital AirComp
 ```
@@ -120,21 +142,3 @@ If you use this project, please cite the relevant original publications for the 
 }
 ```
 
-#### Book and Survey
-```
-@article{gao2023compressive,
-  title={Compressive sensing-based grant-free massive access for 6G massive communication},
-  author={Gao, Zhen and Ke, Malong and Mei, Yikun and Qiao, Li and Chen, Sheng and Ng, Derrick Wing Kwan and Poor, H Vincent},
-  journal={IEEE Internet of Things Journal},
-  year={2023},
-  publisher={IEEE}
-}
-@book{gao2022massive,
-  author = {Gao, Z. and Ke, M. and Qiao, L. and Mei, Y.},
-  title = {Massive IoT Access for 6G},
-  year = {2022},
-  publisher = {Springer},
-  address = {Singapore}
-}
-
-```
