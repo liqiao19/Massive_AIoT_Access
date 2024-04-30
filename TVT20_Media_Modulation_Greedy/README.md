@@ -1,10 +1,6 @@
-# Source-Code-L.Qiao
-
 ## 1. Media Modulation Meets Massive Access：
 
-![image](assets/TVT_media_modulation_1.PNG)
-
-
+![image](/assets/TVT_media_modulation_1.PNG)
 
 
 ![image](/assets/TVTmedia_modulation_2.PNG)
