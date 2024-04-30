@@ -4,13 +4,6 @@ This project aims to investigate and propose efficient multiple access mechanism
 
 ## [ISIT'23] Unsourced Random Access for AirComp
 
-<div style="text-align: center;">
-    <figure>
-        <img src="/Figures/MDAirComp_scheme.gif" height="256" width="auto">
-        <figcaption>The schematic diagram of the proposed massive digital AirComp scheme.</figcaption>
-    </figure>
-</div>
-
 <div align="center">
 <img src="/Figures/MDAirComp_scheme.gif" height="256" width="auto" alt="The schematic diagram of the proposed massive digital AirComp scheme.">
 </div>
@@ -19,13 +12,14 @@ This project aims to investigate and propose efficient multiple access mechanism
 ## [TCOM'23] Integrated Sensing and Communication
 
 <div align="center">
-  <img src="/Figures/ISAC.gif" height="300" width="auto">
+  <img src="/Figures/ISAC.gif" height="300" width="auto" alt="Typical massive IoT access in smart factory scenarios">
 </div>
+<div align="center">Typical massive IoT access in smart factory scenarios.</div>
 
 <div align="center">
-  <img src="/Figures/ISAC_sensing.gif" height="245" width="auto">
+  <img src="/Figures/ISAC_sensing.gif" height="245" width="auto" alt="XL-MIMO for massive access and the localization">
 </div>
-
+<div align="center">XL-MIMO for massive access and the localization.</div>
 
 
 ## [JSAC'22] Non-Cohenrent Grant-Free Random Access
