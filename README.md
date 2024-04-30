@@ -30,15 +30,22 @@ This project aims to investigate and propose efficient multiple access mechanism
 ## [JSAC'22] Non-Cohenrent Grant-Free Random Access
 
 <div align="center">
-  <img src="/Figures/TableNC.gif" height="300" width="auto">
+  <img src="/Figures/TableNC.gif" height="300" width="auto" alt="Comparison of the coherent GFRA schemes and the proposed non-coherent GFRA scheme.">
 </div>
+<div align="center">Comparison of the coherent GFRA schemes and the proposed non-coherent GFRA scheme.</div>
 
 ## [TWC'22,TVT'20] Media-Modulation for Grant-Free Random Access
 
 <div align="center">
-  <img src="/Figures/Media.gif" height="256" width="auto">
+  <img src="/Figures/Media.gif" height="256" width="auto" alt="The MTDs adopt media modulation to access the mMIMO BSs.">
 </div>
+<div align="center">The MTDs adopt media modulation to access the mMIMO BSs.</div>
+
+<!-- 使用段落元素添加间距 -->
+<p style="margin-bottom: 100px;"></p>
+
 
 <div align="center">
-  <img src="/Figures/MediaCoded.gif" height="256" width="auto">
+  <img src="/Figures/MediaCoded.gif" height="256" width="auto" alt="Communication process for coded media modulation based mMTC.">
 </div>
+<div align="center">Communication process for coded media modulation based mMTC.</div>
