@@ -53,7 +53,7 @@ This project aims to investigate and propose efficient multiple access mechanism
 
 If you use this project, please cite the relevant original publications for the models and datasets, and cite this project as:
 
-
+### JSAC 22
 ```
 @article{qiao2022joint,
   title={Joint activity and blind information detection for UAV-assisted massive IoT access},
