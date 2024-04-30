@@ -115,8 +115,15 @@ If you use this project, please cite the relevant original publications for the 
 }
 ```
 
-#### Book: Massive IoT Access for 6G
+#### Book and Survey
 ```
+@article{gao2023compressive,
+  title={Compressive sensing-based grant-free massive access for 6G massive communication},
+  author={Gao, Zhen and Ke, Malong and Mei, Yikun and Qiao, Li and Chen, Sheng and Ng, Derrick Wing Kwan and Poor, H Vincent},
+  journal={IEEE Internet of Things Journal},
+  year={2023},
+  publisher={IEEE}
+}
 @book{gao2022massive,
   author = {Gao, Z. and Ke, M. and Qiao, L. and Mei, Y.},
   title = {Massive IoT Access for 6G},
