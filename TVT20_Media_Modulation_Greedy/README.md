@@ -2,11 +2,11 @@
 
 ## 1. Media Modulation Meets Massive Access：
 
-![image](https://raw.githubusercontent.com/gaozhen16/Source-Code-L.Qiao/main/assets/TVT1.PNG)
+![image](assets/TVT_media_modulation_1.PNG)
 
 
 
 
-![image](https://raw.githubusercontent.com/gaozhen16/Source-Code-L.Qiao/main/assets/TVT2.PNG)
+![image](/assets/TVTmedia_modulation_2.PNG)
 
 **Please  acknowledge our papers if you used the codes.**
