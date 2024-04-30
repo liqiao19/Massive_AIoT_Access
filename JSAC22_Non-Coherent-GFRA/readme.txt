@@ -1,14 +1,14 @@
-# Usuage
+### Usuage
 
-1. To evaluate Algorithm 1: Run Main_small_MIMO.m
+To evaluate Algorithm 1: Run Main_small_MIMO.m
 
-Run Main_large_MIMO.m, using algorithm 2
+To evaluate Algorithm 2: Run Main_large_MIMO.m
 
-Run Main_2DSpreading_TimeVariant.m for time-frequency spreading of the sequences, in time-varying channel
+To evaluate the performance under doubly-selective fading channels (i.e., both frequency- and time-selective fading): Run Main_2DSpreading_TimeVariant.m
 
-Para_H_0711.mat is the time variant channel used to generate Fig.  in the paper.
+Para_H_0711.mat is the  doubly-selective fading channels used to generate Fig. 10 in the paper.
 
-# Citation
+### Citation
 
 @article{qiao2022joint,
   title={Joint activity and blind information detection for UAV-assisted massive IoT access},
