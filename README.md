@@ -19,7 +19,7 @@ This project aims to investigate and propose efficient multiple access mechanism
 
 <div align="center">
   <img src="/Figures/TableNC.gif" height="256" width="auto">
-  <img src="/Figures/UAV-NC.gif" height="256" width="auto">
+  <img src="/Figures/UAV-NC.gif" width="400" width="auto">
 </div>
 
 
