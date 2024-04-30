@@ -26,7 +26,6 @@ This project aims to investigate and propose efficient multiple access mechanism
 
 
 
-
 ## [JSAC'22] Non-Cohenrent Grant-Free Random Access
 
 <div align="center">
@@ -34,7 +33,7 @@ This project aims to investigate and propose efficient multiple access mechanism
 </div>
 <div align="center">Comparison of the coherent GFRA schemes and the proposed non-coherent GFRA scheme.</div>
 
-## [TWC'22,TVT'20] Media-Modulation for Grant-Free Random Access
+## [TWC'21,TVT'20] Media-Modulation for Grant-Free Random Access
 
 <div align="center">
   <img src="/Figures/Media.gif" height="256" width="auto" alt="The MTDs adopt media modulation to access the mMIMO BSs.">
