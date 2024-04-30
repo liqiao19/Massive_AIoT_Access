@@ -17,7 +17,7 @@ This project aims to investigate and propose efficient multiple access mechanism
 <div align="center">Typical massive IoT access in smart factory scenarios.</div>
 
 <!-- 添加空白 -->
-<div style="margin-bottom: 20px;"></div>
+<div style="margin-bottom: 100px;"></div>
 
 <div align="center">
   <img src="/Figures/ISAC_sensing.gif" height="245" width="auto" alt="XL-MIMO for massive access and the localization">
