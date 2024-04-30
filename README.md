@@ -12,7 +12,7 @@ This project aims to investigate and propose efficient multiple access mechanism
 
 <div style="display:flex;justify-content:center;align-items:center">
   <div><img src="/Figures/ISAC.gif" height="256" width="auto"></div>
-  <div><img src="/Figures/ISAC_sensing.gif" height="256" width="256"></div>
+  <div><img src="/Figures/ISAC_sensing.gif" height="256" width="300"></div>
 </div>
 
 
