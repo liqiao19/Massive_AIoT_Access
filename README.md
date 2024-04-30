@@ -53,6 +53,30 @@ This project aims to investigate and propose efficient multiple access mechanism
 
 If you use this project, please cite the relevant original publications for the models and datasets, and cite this project as:
 
+#### Massive Digital AirComp
+```
+@inproceedings{qiao2023unsourced,
+  title={Unsourced massive access-based digital over-the-air computation for efficient federated edge learning},
+  author={Qiao, Li and Gao, Zhen and Li, Zhongxiang and G{\"u}nd{\"u}z, Deniz},
+  booktitle={2023 IEEE International Symposium on Information Theory (ISIT)},
+  pages={2003--2008},
+  year={2023},
+  organization={IEEE}
+}
+```
+
+#### ISAC GFRA
+```
+@article{qiao2023sensing,
+  title={Sensing User’s Activity, Channel, and Location with Near-Field Extra-Large-Scale MIMO},
+  author={Qiao, Li and Liao, Anwen and Li, Zhuoran and Wang, Hua and Gao, Zhen and Gao, Xiang and Su, Yu and Xiao, Pei and You, Li and Ng, Derrick Wing Kwan},
+  journal={IEEE transactions on communications},
+  year={2023},
+  publisher={IEEE}
+}
+```
+
+
 #### Non-Cohenrent GFRA
 ```
 @article{qiao2022joint,
@@ -63,7 +87,31 @@ If you use this project, please cite the relevant original publications for the 
   volume={40},
   number={5},
   pages={1489-1508},
-  keywords={Performance evaluation;Modulation;Media;MIMO communication;Autonomous aerial vehicles;OFDM;Indexes;Internet-of-Things (IoT);massive machine-type communications;massive IoT access;unmanned aerial vehicle (UAV);non-coherent index modulation;compressed sensing},
   doi={10.1109/JSAC.2022.3143255}}
+}
+```
+
+#### Media-Modulation GFRA
+```
+@article{qiao2021massive,
+  title={Massive access in media modulation based massive machine-type communications},
+  author={Qiao, Li and Zhang, Jun and Gao, Zhen and Ng, Derrick Wing Kwan and Di Renzo, Marco and Alouini, Mohamed-Slim},
+  journal={IEEE Transactions on Wireless Communications},
+  volume={21},
+  number={1},
+  pages={339--356},
+  year={2021},
+  publisher={IEEE}
+}
+@article{qiao2020compressive,
+  title={Compressive sensing based massive access for IoT relying on media modulation aided machine type communications},
+  author={Qiao, Li and Zhang, Jun and Gao, Zhen and Chen, Sheng and Hanzo, Lajos},
+  journal={IEEE Transactions on Vehicular Technology},
+  volume={69},
+  number={9},
+  pages={10391--10396},
+  year={2020},
+  publisher={IEEE}
+}
 }
 ```
