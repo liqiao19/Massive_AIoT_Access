@@ -10,15 +10,12 @@ This project aims to investigate and propose efficient multiple access mechanism
 
 ## [TCOM'23] Integrated Sensing and Communication
 
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex;">
-    <div>
-      <img src="/Figures/ISAC.gif" height="256" width="auto">
-    </div>
-    <div>
-      <img src="/Figures/ISAC_sensing.gif" height="256" width="300">
-    </div>
-  </div>
+<div align="center">
+  <img src="/Figures/ISAC.gif" height="256" width="auto">
+</div>
+
+<div align="center">
+  <img src="/Figures/ISAC_sensing.gif" height="200" width="auto">
 </div>
 
 
