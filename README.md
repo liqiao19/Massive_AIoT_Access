@@ -10,10 +10,11 @@ This project aims to investigate and propose efficient multiple access mechanism
 
 ## [TCOM'23] Integrated Sensing and Communication
 
-<div style="display:flex;justify-content:center;align-items:center">
+<div style="display:flex;justify-content:center;">
   <div><img src="/Figures/ISAC.gif" height="256" width="auto"></div>
   <div><img src="/Figures/ISAC_sensing.gif" height="256" width="300"></div>
 </div>
+
 
 
 ## [JSAC'22] Non-Cohenrent Grant-Free Random Access
