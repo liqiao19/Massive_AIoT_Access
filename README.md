@@ -15,19 +15,14 @@ This project aims to investigate and propose efficient multiple access mechanism
   <img src="/Figures/ISAC.gif" height="300" width="auto" alt="Typical massive IoT access in smart factory scenarios">
 </div>
 <div align="center">Typical massive IoT access in smart factory scenarios.</div>
-<div style="height: 20px;"></div>
+
+<!-- 添加空白 -->
+<div style="margin-bottom: 20px;"></div>
+
 <div align="center">
   <img src="/Figures/ISAC_sensing.gif" height="245" width="auto" alt="XL-MIMO for massive access and the localization">
 </div>
 <div align="center">XL-MIMO for massive access and the localization.</div>
-
-
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="/Figures/ISAC.gif" height="300" width="auto" alt="Typical massive IoT access in smart factory scenarios.">
-  <div style="height: 20px;"></div> <!-- 添加一个空div来增加垂直间距 -->
-  <img src="/Figures/ISAC_sensing.gif" height="245" width="auto" alt="XL-MIMO for massive access and the localization.">
-  <div>XL-MIMO for massive access and the localization.</div>
-</div>
 
 
 ## [JSAC'22] Non-Cohenrent Grant-Free Random Access
