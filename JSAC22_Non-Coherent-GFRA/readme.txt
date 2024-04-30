@@ -1,17 +1,19 @@
-Thank you for opening this file.
+# Usuage
 
-Run Main_small_MIMO.m, using algorithm 1
+1. To evaluate Algorithm 1: Run Main_small_MIMO.m
 
 Run Main_large_MIMO.m, using algorithm 2
 
 Run Main_2DSpreading_TimeVariant.m for time-frequency spreading of the sequences, in time-varying channel
 
-Para_H_0711.mat is the time variant channel used to generate the figure in the paper.
+Para_H_0711.mat is the time variant channel used to generate Fig.  in the paper.
 
-@ARTICLE{9726781,
-  author={Qiao, Li and Zhang, Jun and Gao, Zhen and Zheng, Dezhi and Hossain, Md. Jahangir and Gao, Yue and Ng, Derrick Wing Kwan and Di Renzo, Marco},
-  journal={IEEE Journal on Selected Areas in Communications}, 
-  title={Joint Activity and Blind Information Detection for UAV-Assisted Massive IoT Access}, 
+# Citation
+
+@article{qiao2022joint,
+  title={Joint activity and blind information detection for UAV-assisted massive IoT access},
+  author={Qiao, Li and Zhang, Jun and Gao, Zhen and Zheng, Dezhi and Hossain, Md Jahangir and Gao, Yue and Ng, Derrick Wing Kwan and Di Renzo, Marco},
+  journal={IEEE Journal on Selected Areas in Communications},
   year={2022},
   volume={40},
   number={5},
