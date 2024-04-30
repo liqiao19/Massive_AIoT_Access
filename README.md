@@ -28,3 +28,10 @@ This project aims to investigate and propose efficient multiple access mechanism
 
 ## [TWC'22,TVT'20] Media-Modulation for Grant-Free Random Access
 
+<div align="center">
+  <img src="/Figures/Media.gif" height="256" width="auto">
+</div>
+
+<div align="center">
+  <img src="/Figures/MediaCoded.gif" height="256" width="auto">
+</div>
