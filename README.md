@@ -113,5 +113,16 @@ If you use this project, please cite the relevant original publications for the 
   year={2020},
   publisher={IEEE}
 }
+```
+
+#### Book: Massive IoT Access for 6G
+```
+@book{gao2022massive,
+  author = {Gao, Z. and Ke, M. and Qiao, L. and Mei, Y.},
+  title = {Massive IoT Access for 6G},
+  year = {2022},
+  publisher = {Springer},
+  address = {Singapore}
 }
+
 ```
