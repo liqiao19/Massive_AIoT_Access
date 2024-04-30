@@ -12,7 +12,7 @@ This project aims to investigate and propose efficient multiple access mechanism
 
 <div style="display:flex;">
   <img src="/Figures/ISAC.gif" height="256" width="auto">
-  <img src="/Figures/ISAC_sensing.gif" height="256" width="auto">
+  <img src="/Figures/ISAC_sensing.gif" width="256" height="auto">
 </div>
 
 ## [JSAC'22] Non-Cohenrent Grant-Free Random Access
