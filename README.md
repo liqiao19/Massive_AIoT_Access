@@ -2,6 +2,11 @@
 
 This project aims to investigate and propose efficient multiple access mechanisms to optimize communication efficiency among massive devices in future wireless networks. The ultimate goal is to contribute to the advancement of next-generation wireless networks, making them more streamlined and intelligent.
 
+<div align="center">
+<img src="/Figures/AIoT2.jpg" height="256" width="auto" alt="The schematic diagram of the proposed massive digital AirComp scheme.">
+</div>
+<div align="center">The schematic diagram of the proposed massive digital AirComp scheme.</div>
+
 ## [ISIT'23] Unsourced Random Access for AirComp
 
 <div align="center">
