@@ -44,7 +44,7 @@ This paper proposes a grant-free massive access scheme based on the millimeter w
 ## [TWC'21,TVT'20] Media-Modulation for Grant-Free Random Access
 
 <div align="center">
-  <img src="/Figures/Media.gif" height="256" width="auto" alt="The MTDs adopt media modulation to access the mMIMO BSs.">
+  <img src="/Slides/TVT_media_modulation_1.PNG" height="356" width="auto" alt="IoT devices adopt media modulation to access the mMIMO BSs.">
 </div>
 <div align="center">The MTDs adopt media modulation to access the mMIMO BSs.</div>
 
