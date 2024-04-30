@@ -48,3 +48,16 @@ This project aims to investigate and propose efficient multiple access mechanism
   <img src="/Figures/MediaCoded.gif" height="256" width="auto" alt="Communication process for coded media modulation based mMTC.">
 </div>
 <div align="center">Communication process for coded media modulation based mMTC.</div>
+
+## Citations
+
+If you use this project, please cite the relevant original publications for the models and datasets, and cite this project as:
+
+```
+@article{begaint2020compressai,
+	title={CompressAI: a PyTorch library and evaluation platform for end-to-end compression research},
+	author={B{\'e}gaint, Jean and Racap{\'e}, Fabien and Feltman, Simon and Pushparaja, Akshay},
+	year={2020},
+	journal={arXiv preprint arXiv:2011.03029},
+}
+```
