@@ -36,12 +36,18 @@ This paper proposes a grant-free massive access scheme based on the millimeter w
 
 ## [JSAC'22] Non-Cohenrent Grant-Free Random Access
 
+A non-coherent grant-free random access scheme is proposed in MIMO-OFDM systems, enabling efficient massive access for cost- and energy-limited IoT devices.
+
 <div align="center">
   <img src="/Figures/TableNC.gif" height="300" width="auto" alt="Comparison of the coherent GFRA schemes and the proposed non-coherent GFRA scheme.">
 </div>
 <div align="center">Comparison of the coherent GFRA schemes and the proposed non-coherent GFRA scheme.</div>
 
 ## [TWC'21,TVT'20] Media-Modulation for Grant-Free Random Access
+
+As electromagnetic materials continue to advance, media-based modulation (MBM) has emerged as a promising technique to improve the energy and spectrum efficiency of transmitters. This paper suggests an effective grant-free random access scheme tailored for IoT devices employing MBM.
+
+This letter proposes a media modulation based massive machine-type communications solution for increasing the throughput, where a massive multi-input multi-output based base station is used for enhancing the detection performance.
 
 <div align="center">
   <img src="/Slides/TVT_media_modulation_1.PNG" height="356" width="auto" alt="IoT devices adopt media modulation to access the mMIMO BSs.">
