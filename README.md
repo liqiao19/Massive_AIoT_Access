@@ -1,6 +1,6 @@
-Code ollections through my PhD
-
 # Massive Access for Artificial Intelligent of Things (AIoT)
+
+This GitHub repository is a collection of code from my doctoral research on multiple access.
 
 This project aims to investigate and propose efficient multiple access mechanisms to optimize communication efficiency among massive devices in future wireless networks. The ultimate goal is to contribute to the advancement of next-generation wireless networks, making them more streamlined and intelligent.
 
