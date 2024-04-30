@@ -12,7 +12,7 @@ This project aims to investigate and propose efficient multiple access mechanism
 </div>
 
 <div align="center">
-<img src="/Figures/MDAirComp_scheme.gif" alt="The schematic diagram of the proposed massive digital AirComp scheme.">
+<img src="/Figures/MDAirComp_scheme.gif" height="256" width="auto" alt="The schematic diagram of the proposed massive digital AirComp scheme.">
 </div>
 <div align="center">The schematic diagram of the proposed massive digital AirComp scheme.</div>
 
