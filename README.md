@@ -10,18 +10,15 @@ This project aims to investigate and propose efficient multiple access mechanism
 
 ## [TCOM'23] Integrated Sensing and Communication
 
-<div style="display:flex; justify-content: center;">
-  <img src="/Figures/ISAC.gif" height="256" width="auto">
-  <img src="/Figures/ISAC_sensing.gif" height="256" width="auto">
+<div style="display:flex;justify-content:center;align-items:center">
+  <div><img src="/Figures/ISAC.gif" height="256" width="auto"></div>
+  <div style="margin:0 20px;"><img src="/Figures/ISAC_sensing.gif" height="256" width="auto"></div>
 </div>
 
 ## [JSAC'22] Non-Cohenrent Grant-Free Random Access
 
 <div align="center">
-  <img src="/Figures/TableNC.gif" height="256" width="auto">
-</div>
-<div align="center">
-  <img src="/Figures/UAV-NC.gif" width="400" width="auto">
+  <img src="/Figures/TableNC.gif" height="300" width="auto">
 </div>
 
 ## [TWC'22,TVT'20] Media-Modulation for Grant-Free Random Access
