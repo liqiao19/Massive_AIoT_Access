@@ -19,9 +19,10 @@ This project aims to investigate and propose efficient multiple access mechanism
 
 <div align="center">
   <img src="/Figures/TableNC.gif" height="256" width="auto">
+</div>
+<div align="center">
   <img src="/Figures/UAV-NC.gif" width="400" width="auto">
 </div>
-
 
 ## [TWC'22,TVT'20] Media-Modulation for Grant-Free Random Access
 
