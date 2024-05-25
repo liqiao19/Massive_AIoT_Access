@@ -19,6 +19,8 @@ This paper proposes a communication-efficient digital over-the-air computation s
 
 ## [TCOM'23] Integrated Sensing and Communication
 
+[Click here to watch the video podcast](https://www.bilibili.com/video/BV1j5411z7Fj/?spm_id_from=333.999.0.0)
+
 This paper proposes a grant-free massive access scheme based on the millimeter wave (mmWave) extra-large-scale multiple-input multiple-output (XL-MIMO), to support massive Internet-of-Things (IoT) devices with low latency, high data rate, and high localization accuracy in the next-generation networks.
 
 <div align="center">
@@ -35,8 +37,9 @@ This paper proposes a grant-free massive access scheme based on the millimeter w
 <div align="center">XL-MIMO for massive access and the localization.</div>
 
 
-
 ## [JSAC'22] Non-Cohenrent Grant-Free Random Access
+
+[Click here to watch the video podcast](https://www.bilibili.com/video/BV1pR4y1V7cH/?spm_id_from=333.999.0.0&vd_source=84d4755ceed63cfe31ff70edadeb9530)
 
 A non-coherent grant-free random access scheme is proposed in MIMO-OFDM systems, enabling efficient massive access for cost- and energy-limited IoT devices.
 
@@ -46,6 +49,8 @@ A non-coherent grant-free random access scheme is proposed in MIMO-OFDM systems,
 <div align="center">Comparison of the coherent GFRA schemes and the proposed non-coherent GFRA scheme.</div>
 
 ## [TWC'21,TVT'20] Media-Modulation for Grant-Free Random Access
+
+[Click here to watch the video podcast](https://www.bilibili.com/video/BV1Ah411x7mD/?spm_id_from=333.999.0.0&vd_source=84d4755ceed63cfe31ff70edadeb9530)
 
 As electromagnetic materials continue to advance, media-based modulation (MBM) has emerged as a promising technique to improve the energy and spectrum efficiency of transmitters. This paper suggests an effective grant-free random access scheme tailored for IoT devices employing MBM.
 
